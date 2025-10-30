@@ -66,8 +66,3 @@ Demonstrated competence in modern, specialized QA domains, including:
 * Backend & API Validation.
 
 ---
-
-
-* **Email:** [Your Professional Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **CV:** [Link to your CV/Resume]
