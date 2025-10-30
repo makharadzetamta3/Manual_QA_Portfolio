@@ -29,25 +29,35 @@ However, the artifacts in this portfolio are a direct result of my contributions
 | **Methodologies** | Scrum, Kanban, SDLC, STLC, Testing Principles. |
 
 ---
-
-## 📂 Portfolio Deliverables (Test Documentation & Reports)
-
-This repository contains professional examples of my work, organized by document type:
-
+<details>
+<summary>
+    <h2>📂 Portfolio Deliverables (Test Documentation & Reports)</h2>
+</summary>
+    
+<p>This section showcases professional examples of my work, organized by document type:</p>
+    
 * **[Test Cases & Scenarios]** (./01_Test_Cases)
 * **[Bug Reports]** (./02_Bug_Reports)
 * **[Checklists]** (./03_Checklists_Scenarios)
+    
+</details>
 
+<br>
 ---
-
-## 🧪 Test Artifacts
-
-This section highlights practical proof of technical capabilities:
-
+<details>
+<summary>
+    <h2>🧪 Test Artifacts</h2>
+</summary>
+    
+<p>This section highlights practical proof of technical capabilities:</p>
+    
 * **[API Testing - Postman]** (./04_Test_Artifacts)
 * **[SQL Queries]** (./04_Test_Artifacts)
 * **[Accessibility & UI/UX Review]** (./04_Test_Artifacts)
+    
+</details>
 
+<br>
 ---
 
 ## 📚 Learning & Certificates
