@@ -55,7 +55,9 @@ This section highlights practical proof of technical capabilities:
 ### 📜 Certifications
 
 * **Manual Testing Course:** Successfully completed the **Manual Testing Course** from [Genofit].
-    * *Verification Link:* [View Certificate on LinkedIn](https://www.linkedin.com/posts/tamta-makharadze-b4554b20a/activity-7378416314329096193)owledge (Acquired from QA Manual Pro)
+    * *Verification Link:* [View Certificate on LinkedIn](https://www.linkedin.com/posts/tamta-makharadze-b4554b20a_%E1%83%9E%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%AC%E1%83%94%E1%83%A0%E1%83%90-%E1%83%90%E1%83%A0-%E1%83%9B%E1%83%98%E1%83%A7%E1%83%95%E1%83%90%E1%83%A0%E1%83%A1-%E1%83%93%E1%83%90-%E1%83%90%E1%83%A0%E1%83%AA-%E1%83%90%E1%83%A0%E1%83%90%E1%83%A1%E1%83%93%E1%83%A0%E1%83%9D%E1%83%A1-activity-7378416314329096193-FH98?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUeMKUBNOfwImyDmaREm60Y7utVriVny40)
+
+### 💡 Advanced Knowledge (Acquired from QA Manual Pro)
 
 Demonstrated competence in modern, specialized QA domains, including:
 
